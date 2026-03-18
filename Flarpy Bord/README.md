@@ -10,4 +10,4 @@ A Flappy Bird clone built in Unity.
 
 ## Play
 
-👉 [Play in Browser](https://yourusername.github.io/flarpy-bord)
+👉 [Find it here !](https://sgbhat.itch.io/florpy-bord)
